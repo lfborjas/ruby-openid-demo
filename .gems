@@ -1,1 +1,5 @@
 sinatra
+oauth
+ruby-openid
+ruby-openid-apps-discovery
+rack-openid
